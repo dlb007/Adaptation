@@ -1,48 +1,12 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/dlb007/D-D-Projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dlb007/D-D-Projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-Module 12 - Research Example (Remote Directing)
-![Remote Director] (../img/remote director.jpg)
+## Remote Directing
 
 An example of this directive brings me back to an unintentional but timely research discovery of my own. When I was on my path to finishing up my thesis research and finishing production on capturing my film directives. I had to shift to a new model of film production to finish the film and paper due to the pandemic introduction (2019). I was not prepared for this new landscape but had to jump into action and react (iterate) within the new isolated remote filmmaking landscape. As a result, I directed remotely, which has essentially become a recognized new format discovered by the worldwide pandemic emergence.
 
 Initially, there was a transition from I-Search (Ethnographic) to WeSearch when you began this course. Similar to what caused me to change course and find a viable way to complete my film isolated, but dramatically changed toward the use of WeSearch with the accessibility of Zoom with subjects from all over the world to share their stories. As a result, I turned to research and subjects filmed far away to present a feeling of defined story association closer to any previous film direction I had traditionally completed. Subjects' lives were right there in front of me, in the comfort of their environments surrounding them. And even though it was captured digitally within the small frame of a Zoom interactive camera view, it brought people and their stories together to create a greater impact on the film and research-documented.
 
-![Zoom it up!] (../img/zoom it up.jpg)
+![Zoom it up!] (/img/zoom it up.jpg)
+
+![Image](src)
 
 Now, I'm not saying this discovery was the original, but it was explored at the moment with less guidance and allowed for research and filmmaking to come together as one by taking on a challenge with help similar to I-Search/WeSearch. And even though it was not attained at a traditional level, it formed an impactful experience for myself and the subjects who participated, influencing the direction of research and filmmaking welcomed even today.
 
@@ -56,7 +20,8 @@ Below are a few examples of how this discovery has moved others along during the
 
 Before:
 
-Life in a Day (Documentary) -Ridley Scott (2011) (https://youtu.be/bT_UmBHMYzg) (Links to an external site.)
+Life in a Day (Documentary) -Ridley Scott (2011) [LIfe in a Day] (https://youtu.be/bT_UmBHMYzg) (Links to an external site.)
+
 
 Unfriended (Skype) -Levan Gabriadze (2014) (https://youtu.be/Lgj4GjqCFlY) (Links to an external site.)
 
